@@ -3,6 +3,7 @@
 ## Social Links
 
 * SNS : [Twitter](https://twitter.com/usamik26) / [Facebook](https://www.facebook.com/kosuke.usami) / [mstdn.jp](https://mstdn.jp/@usami)
+* Workshop : [connpass](https://connpass.com/user/usami-k/)
 * Presentations : [Speaker Deck](https://speakerdeck.com/usamik26) / [SlideShare](http://www.slideshare.net/kosukeusami)
 * Blog : [Qiita](http://qiita.com/usamik26) / [Hatena Blog](http://usami-k.hatenablog.com)
 * Code : [GitHub](https://github.com/usami-k)
