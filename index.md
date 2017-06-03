@@ -17,7 +17,7 @@
 
 ## Mathematics
 
-* Infinite dimensional Lie algebras : [Kac-Moody Lie Algebras and Related Topics](http://bookstore.ams.org/conm-343/)
+* Algebra : [Kac-Moody Lie Algebras and Related Topics](http://bookstore.ams.org/conm-343/) - On an analog of the Onsager algebra of type D
 
 ## Music
 
