@@ -2,18 +2,20 @@
 
 ## Social Links
 
-* SNS : [Twitter](https://twitter.com/usamik26) / [Facebook](https://www.facebook.com/kosuke.usami) / [mstdn.jp](https://mstdn.jp/@usami)
-* Workshop : [connpass](https://connpass.com/user/usami-k/)
+* SNS : [Twitter](https://twitter.com/usamik26) / [Facebook](https://www.facebook.com/kosuke.usami) / [Wantedly](https://www.wantedly.com/users/9122848)
 * Presentations : [Speaker Deck](https://speakerdeck.com/usamik26) / [SlideShare](https://www.slideshare.net/kosukeusami)
 * Blog : [Qiita](https://qiita.com/usamik26) / [Hatena Blog](http://usami-k.hatenablog.com)
 * Code : [GitHub](https://github.com/usami-k)
 
+## Workshop
+
+* Mobile Devices : [Mobile Act](https://mobileact.connpass.com)
+* Haskell : [Umekita.hs](https://umekitahs.connpass.com)
+
 ## Programming
 
-* iOS app : [Fenrir Inc.](https://www.fenrir-inc.com/jp/business/)
-* macOS app : [CotEditor Project](https://github.com/coteditor/)
-* Haskell : [Umekita.hs](https://umekitahs.connpass.com)
-* Embedded software (RTOS / Linux) : Firmware / Boot loader / Device driver / Middleware
+* iOS app : [Fenrir Inc.](https://www.fenrir-inc.com/jp/business/) - Swift / Objective-C / C# (Xamarin)
+* Embedded Software (RTOS / Linux) : Firmware / Boot Loader / Device Driver / Middleware
 
 ## Mathematics
 
@@ -21,6 +23,6 @@
 
 ## Music
 
-* Chorus group : [Choir Vremya](http://chor-vremya.com)
-* Opera aria
+* Chorus Group : [Choir Vremya](http://chor-vremya.com)
+* Opera Aria
 
