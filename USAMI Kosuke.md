@@ -1,20 +1,10 @@
 # USAMI Kosuke
 
-## Social Links
-
-* SNS : [Twitter](https://twitter.com/usamik26) / [Facebook](https://www.facebook.com/kosuke.usami) / [Wantedly](https://www.wantedly.com/users/9122848)
-* Presentations : [Speaker Deck](https://speakerdeck.com/usamik26) / [SlideShare](https://www.slideshare.net/kosukeusami)
-* Blog : [Qiita](https://qiita.com/usamik26) / [Hatena Blog](http://usami-k.hatenablog.com)
-* Code : [GitHub](https://github.com/usami-k)
-
-## Workshop
-
-* Mobile Devices : [Mobile Act](https://mobileact.connpass.com)
-* Haskell : [Umekita.hs](https://umekitahs.connpass.com)
-
 ## Programming
 
-* iOS app : [Fenrir Inc.](https://www.fenrir-inc.com/jp/business/) - Swift / Objective-C / C# (Xamarin)
+* iOS App : Swift / Objective-C / C# (Xamarin) - [Fenrir Inc.](https://www.fenrir-inc.com/jp/business/)
+* Community (Mobile) : [Mobile Act](https://mobileact.connpass.com)
+* Community (Haskell) : [Umekita.hs](https://umekitahs.connpass.com)
 * Embedded Software (RTOS / Linux) : Firmware / Boot Loader / Device Driver / Middleware
 
 ## Mathematics
@@ -26,4 +16,11 @@
 
 * Chorus Group : [Choir Vremya](http://chor-vremya.com)
 * Opera Aria / Chorus
+
+## Social Links
+
+* SNS : [Twitter](https://twitter.com/usamik26) / [Facebook](https://www.facebook.com/kosuke.usami) / [Wantedly](https://www.wantedly.com/users/9122848)
+* Presentations : [Speaker Deck](https://speakerdeck.com/usamik26) / [SlideShare](https://www.slideshare.net/kosukeusami)
+* Blog : [Qiita](https://qiita.com/usamik26) / [Hatena Blog](http://usami-k.hatenablog.com)
+* Code : [GitHub](https://github.com/usami-k)
 
