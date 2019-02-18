@@ -22,7 +22,7 @@
 * Community : [Kansai Sunday Math](https://kansai-sunday-math.connpass.com)
 * Algebra : [Kac-Moody Lie Algebras and Related Topics](http://bookstore.ams.org/conm-343/) - On an analog of the Onsager algebra of type D
 
-## Music
+## Vocal
 
 * Chorus Group : [Choir Vremya](http://chor-vremya.com)
 * Opera Aria / Chorus
