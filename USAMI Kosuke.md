@@ -4,6 +4,7 @@
 
 * Articles : [Qiita](https://qiita.com/usamik26) / [Speaker Deck](https://speakerdeck.com/usamik26) / [SlideShare](https://www.slideshare.net/kosukeusami)
 * Blog : [Hatena Blog](http://usami-k.hatenablog.com)
+* Code : [GitHub](https://github.com/usami-k)
 * Community : [Mobile Act](https://mobileact.connpass.com) / [Umekita.hs](https://umekitahs.connpass.com)
 * Job : iOS App - [Fenrir Inc.](https://www.fenrir-inc.com/jp/business/)
 
