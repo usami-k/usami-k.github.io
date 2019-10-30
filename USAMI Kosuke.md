@@ -2,7 +2,7 @@
 
 ## Programming
 
-* Articles : [Qiita](https://qiita.com/usamik26) / [Speaker Deck](https://speakerdeck.com/usamik26) / [SlideShare](https://www.slideshare.net/kosukeusami)
+* Articles : [Qiita](https://qiita.com/usamik26) / [Speaker Deck](https://speakerdeck.com/usamik26)
 * Blog : [Hatena Blog](http://usami-k.hatenablog.com)
 * Code : [GitHub](https://github.com/usami-k)
 * Community : [Mobile Act](https://mobileact.connpass.com) / [Umekita.hs](https://umekitahs.connpass.com)
@@ -10,10 +10,10 @@
 
 ## Mathematics
 
-* Articles : [GitHub](https://github.com/usami-k/mathematics/) / [Speaker Deck](https://speakerdeck.com/usamik26) / [SlideShare](https://www.slideshare.net/kosukeusami)
-* Papers : [On an analog of the Onsager algebra of type Dn(1) - Kac-Moody Lie Algebras and Related Topics](http://bookstore.ams.org/conm-343/) 
+* Articles : [GitHub](https://github.com/usami-k/mathematics/) / [Speaker Deck](https://speakerdeck.com/usamik26)
 * Blog : [Hatena Diary](http://usami-k.hatenadiary.jp)
 * Community : [Kansai Sunday Math](https://kansai-sunday-math.connpass.com) / [Math Day in Osaka](https://osaka-dtc.connpass.com)
+* Papers : [On an analog of the Onsager algebra of type Dn(1) - Kac-Moody Lie Algebras and Related Topics](http://bookstore.ams.org/conm-343/)
 
 ## Vocal
 
