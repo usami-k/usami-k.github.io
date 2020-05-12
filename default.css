@@ -1,0 +1,18 @@
+@import "https://fonts.googleapis.com/css?family=Open+Sans";
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        background-color: black;
+        color: white;
+    }
+    :link {
+        color: lightblue;
+    }
+    :visited { 
+        color: lightsteelblue;
+     }
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
