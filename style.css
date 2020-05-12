@@ -3,14 +3,22 @@
 @media (prefers-color-scheme: dark) {
     :root {
         background-color: black;
+    }
+    h1 {
         color: white;
     }
-    :link {
-        color: lightblue;
+    h2 {
+        color: lightgray;
     }
-    :visited { 
+    li {
         color: lightsteelblue;
-     }
+    }
+    a:link {
+        color: white;
+    }
+    a:visited { 
+        color: lightsteelblue;
+    }
 }
 
 body {
