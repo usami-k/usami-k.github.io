@@ -1,0 +1,55 @@
+@charset "UTF-8";
+@media (prefers-color-scheme: dark) {
+    :root {
+        background-color: black;
+        color: white;
+    }
+    h2 {
+        color: lightsteelblue;
+    }
+    :link {
+        color: white;
+    }
+    :visited {
+        color: white;
+    }
+}
+@media (prefers-color-scheme: light) {
+    :root {
+        background-color: white;
+        color: black;
+    }
+    h2 {
+        color: steelblue;
+    }
+    :link {
+        color: black;
+    }
+    :visited {
+        color: black;
+    }
+}
+body {
+    font-family: "游教科書体 横用";
+}
+img {
+    max-width: 100%;
+}
+.book .cover {
+    padding: 20px;
+}
+.book .detail {
+    padding: 20px;
+}
+@media (min-width: 480px) {
+    .book .container {
+        display: flex;
+        max-width: 1024px;
+    }
+    .book .cover {
+        flex: 1;
+    }
+    .book .detail {
+        flex: 2;
+    }
+}
