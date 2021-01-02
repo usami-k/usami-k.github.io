@@ -35,6 +35,14 @@ body {
 img {
     max-width: 100%;
 }
+.author .profile {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.author .store {
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .book .cover {
     padding: 20px;
 }
@@ -42,7 +50,7 @@ img {
     padding: 20px;
 }
 @media (min-width: 480px) {
-    .book .container {
+    .container {
         display: flex;
         max-width: 1024px;
     }
