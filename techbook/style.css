@@ -46,6 +46,12 @@ img {
 .book .detail {
     padding: 20px;
 }
+.magazine .cover {
+    padding: 20px;
+}
+.magazine .detail {
+    padding: 20px;
+}
 @media (min-width: 480px) {
     .container {
         display: flex;
@@ -55,6 +61,12 @@ img {
         flex: 1;
     }
     .book .detail {
-        flex: 2;
+        flex: 3;
+    }
+    .magazine .cover {
+        flex: 1;
+    }
+    .magazine .detail {
+        flex: 4;
     }
 }
