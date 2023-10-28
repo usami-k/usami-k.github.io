@@ -29,3 +29,36 @@
         color: black;
     }
 }
+img {
+    max-width: 100%;
+}
+.book .cover {
+    padding: 20px;
+}
+.book .detail {
+    padding: 20px;
+}
+.magazine .cover {
+    padding: 20px;
+}
+.magazine .detail {
+    padding: 20px;
+}
+@media (min-width: 480px) {
+    .container {
+        display: flex;
+        max-width: 1024px;
+    }
+    .book .cover {
+        flex: 1;
+    }
+    .book .detail {
+        flex: 3;
+    }
+    .magazine .cover {
+        flex: 1;
+    }
+    .magazine .detail {
+        flex: 4;
+    }
+}
